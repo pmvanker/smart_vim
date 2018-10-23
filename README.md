@@ -7,3 +7,5 @@ run cmd
 done
 enjoy Smart-vim
 
+# ctrl+m for Tagbar
+# ctrl+n for NeardTree
